@@ -26,7 +26,7 @@ Aqui estão as linguagens e tecnologias que utilizo:
 
 | | |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> | [Link para o seu Perfil do LinkedIn](https://www.linkedin.com/in/cain%C3%A3-nascimento-8786a3390/) |
+| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> | (https://www.linkedin.com/in/cain%C3%A3-nascimento-8786a3390/) |
 | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> | contato.caina@gmail.com |
 
 <div align="center">
